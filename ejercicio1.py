@@ -8,4 +8,5 @@ an = a1 + (n - 1) * d
 
 print("El término número", n, "de la progresión aritmética es:", an)
 
-Sn = n*(a1 + an)/2
+Sn = n * (a1 + an)/2
+print("El resultado es: ", Sn)
