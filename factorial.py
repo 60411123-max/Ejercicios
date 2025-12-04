@@ -10,3 +10,5 @@ else:
         resultado *= i
 
     print("El factorial de", n, "es:", resultado)
+    .
+    
